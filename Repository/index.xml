@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="1.15" name="Mordheim2" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+  <repositoryUrls/>
+  <dataIndexEntries>
+    <dataIndexEntry filePath="Mordheim.gstz" dataType="gamesystem" dataId="9481a749-7900-614b-1695-bdc2899069c1" dataName="Mordheim" dataBattleScribeVersion="1.15" dataRevision="14"/>
+    <dataIndexEntry filePath="Dark_Elves.catz" dataType="catalogue" dataId="306dc1be-876f-4f6e-a4a8-4465e1309b7f" dataName="Dark Elves" dataBattleScribeVersion="1.15" dataRevision="10"/>
+    <dataIndexEntry filePath="Dwarven_Tresure_Hunters.catz" dataType="catalogue" dataId="8315579e-b80d-5ed1-7a51-d85cdf59c06b" dataName="Dwarf Treasure Hunters" dataBattleScribeVersion="1.15" dataRevision="18"/>
+    <dataIndexEntry filePath="Middenheim_Mercinaries.catz" dataType="catalogue" dataId="51919a76-f868-1581-224f-24394fbb0d64" dataName="MiddenHeim Mercinaries" dataBattleScribeVersion="1.15" dataRevision="4"/>
+    <dataIndexEntry filePath="The_Undead.catz" dataType="catalogue" dataId="0b05773f-a863-7a25-f872-588b804e2c75" dataName="The Undead" dataBattleScribeVersion="1.15" dataRevision="3"/>
+    <dataIndexEntry filePath="High_Elf_Shadow_Warriors.catz" dataType="catalogue" dataId="a808d69a-88e2-9484-b24a-181ea44917e5" dataName="High Elf Shadow Warriors" dataBattleScribeVersion="1.15" dataRevision="8"/>
+    <dataIndexEntry filePath="Sitsters_of_Sigmar.catz" dataType="catalogue" dataId="c6b6bbc1-2d97-0206-16d1-5845aabffac4" dataName="Sitsters of Sigmar" dataBattleScribeVersion="1.15" dataRevision="7"/>
+    <dataIndexEntry filePath="Witch_Hunters.catz" dataType="catalogue" dataId="65788600-7fa0-eb7c-b1a3-36d0c3c506c6" dataName="Witch Hunters" dataBattleScribeVersion="1.15" dataRevision="6"/>
+    <dataIndexEntry filePath="Marienburg_Mercinaries.catz" dataType="catalogue" dataId="d7899d8b-a172-7e27-aec7-b9c51cb475c1" dataName="Marienburg Mercinaries" dataBattleScribeVersion="1.15" dataRevision="4"/>
+    <dataIndexEntry filePath="Possessed.catz" dataType="catalogue" dataId="39bde8be-ab13-2d3c-098b-1d52b4cbbf63" dataName="Cult of the Possessed" dataBattleScribeVersion="1.15" dataRevision="5"/>
+    <dataIndexEntry filePath="Reikland_Mercenaries.catz" dataType="catalogue" dataId="ac1721e2-653d-e279-11e3-ca8ba77b0637" dataName="Reikland Mercinaries" dataBattleScribeVersion="1.15" dataRevision="6"/>
+    <dataIndexEntry filePath="Ork_Mob.catz" dataType="catalogue" dataId="8b66f7c3-fdd7-fcea-eb91-086959d72140" dataName="Ork Mob" dataBattleScribeVersion="1.15" dataRevision="15"/>
+    <dataIndexEntry filePath="Skaven.catz" dataType="catalogue" dataId="facb1142-7463-7676-00c0-d78150e13a50" dataName="Skaven " dataBattleScribeVersion="1.15" dataRevision="6"/>
+    <dataIndexEntry filePath="Characters.catz" dataType="catalogue" dataId="9bf78c55-7dba-4a44-90ce-10ed57d8b3a1" dataName="Characters" dataBattleScribeVersion="1.15" dataRevision="1"/>
+  </dataIndexEntries>
+</dataIndex>
